@@ -16,3 +16,5 @@ There is a rudimentary recovery built-in to the program such that if it crashes 
 
 ## Pictures
 
+![247196275-338420b1-7770-4ea0-af9b-fd99a0da3249](https://github.com/parasquid/diy-sous-vide-pico-w/assets/185592/ace465a6-dd4f-419a-ba77-f699aeaf767d)
+![247196289-5670b796-35c6-4f79-9b70-04cf86ccb7e4](https://github.com/parasquid/diy-sous-vide-pico-w/assets/185592/aa24b114-e60c-4b74-86af-a3652c12347e)
